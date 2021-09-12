@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pritam Dhar
 - 👀 I’m interested in ...Software Developing
-- 🌱 I’m currently learning ...Fullstack Developement
-- 💞️ I’m looking to contributing on ...Open-Source.
+- 🌱 I’m currently learning ...Fullstack Developement.
+- 💞️ I’m looking to contributing on ...Open-Source projects.
 - 📫 How to reach me ...https://twitter.com/home?lang=en
 
 <!---
